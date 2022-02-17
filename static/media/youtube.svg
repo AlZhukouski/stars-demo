@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="124" height="104.811"><defs><filter id="Контур_3932" x="0" y="0" width="124" height="104.811" filterUnits="userSpaceOnUse"><feOffset/><feGaussianBlur stdDeviation="10" result="blur"/><feFlood flood-color="red" flood-opacity=".4"/><feComposite operator="in" in2="blur"/><feComposite in="SourceGraphic"/></filter></defs><g id="Сгруппировать_8464" data-name="Сгруппировать 8464" transform="translate(12856 8981)"><g id="youtube" transform="translate(-12826 -8951)"><g transform="translate(-30 -30)" filter="url(#Контур_3932)"><path id="Контур_3932-2" data-name="Контур 3932" d="M62.681 7.012a8.018 8.018 0 00-5.641-5.641C52.033 0 32 0 32 0S11.967 0 6.958 1.318a8.182 8.182 0 00-5.64 5.694C0 12.02 0 22.405 0 22.405S0 32.843 1.318 37.8a8.02 8.02 0 005.641 5.64C12.019 44.81 32 44.81 32 44.81s20.033 0 25.041-1.318a8.018 8.018 0 005.641-5.641C64 32.843 64 22.458 64 22.458s.053-10.438-1.318-15.446zm0 0" transform="translate(30 30)" fill="red"/></g><path id="Контур_3933" data-name="Контур 3933" d="M204.969 121.674l16.659-9.595-16.659-9.595zm0 0" transform="translate(-179.348 -89.674)" fill="#fff"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124" height="104.811" viewBox="0 0 124 104.811">
+  <defs>
+    <filter id="Контур_3932" x="0" y="0" width="124" height="104.811" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="red" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Сгруппировать_8464" data-name="Сгруппировать 8464" transform="translate(12856 8981)">
+    <g id="youtube" transform="translate(-12826 -8951)">
+      <g transform="matrix(1, 0, 0, 1, -30, -30)" filter="url(#Контур_3932)">
+        <path id="Контур_3932-2" data-name="Контур 3932" d="M62.681,7.012a8.018,8.018,0,0,0-5.641-5.641C52.033,0,32,0,32,0S11.967,0,6.958,1.318A8.182,8.182,0,0,0,1.318,7.012C0,12.02,0,22.405,0,22.405S0,32.843,1.318,37.8A8.02,8.02,0,0,0,6.959,43.44C12.019,44.81,32,44.81,32,44.81s20.033,0,25.041-1.318a8.018,8.018,0,0,0,5.641-5.641C64,32.843,64,22.458,64,22.458s.053-10.438-1.318-15.446Zm0,0" transform="translate(30 30)" fill="red"/>
+      </g>
+      <path id="Контур_3933" data-name="Контур 3933" d="M204.969,121.674l16.659-9.595-16.659-9.595Zm0,0" transform="translate(-179.348 -89.674)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

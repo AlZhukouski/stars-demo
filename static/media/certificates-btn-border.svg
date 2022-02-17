@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="48"><defs><linearGradient id="linear-gradient" x1=".014" y1="-.07" x2="1.129" y2="1.102" gradientUnits="objectBoundingBox"><stop offset="0" stop-color="#5ea4ff"/><stop offset=".559" stop-color="#6b38d3"/><stop offset="1" stop-color="#ffbaf8"/></linearGradient></defs><g id="Сгруппировать_8461" data-name="Сгруппировать 8461" transform="translate(-970 -8444.432)"><g id="Сгруппировать_8288" data-name="Сгруппировать 8288" transform="translate(276 -2944.941)"><path id="Вычитание_1" data-name="Вычитание 1" d="M232 48H24a24.006 24.006 0 01-9.342-46.114A23.849 23.849 0 0124 0h208a24.006 24.006 0 019.342 46.114A23.848 23.848 0 01232 48zM24.246.923a23.083 23.083 0 00-8.983 44.339 22.933 22.933 0 008.983 1.814h207.508a23.082 23.082 0 008.983-44.34 22.934 22.934 0 00-8.983-1.813z" transform="translate(694 11389.373)" fill="url(#linear-gradient)"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="48" viewBox="0 0 256 48">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.014" y1="-0.07" x2="1.129" y2="1.102" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5ea4ff"/>
+      <stop offset="0.559" stop-color="#6b38d3"/>
+      <stop offset="1" stop-color="#ffbaf8"/>
+    </linearGradient>
+  </defs>
+  <g id="Сгруппировать_8461" data-name="Сгруппировать 8461" transform="translate(-970 -8444.432)">
+    <g id="Сгруппировать_8288" data-name="Сгруппировать 8288" transform="translate(276 -2944.941)">
+      <path id="Вычитание_1" data-name="Вычитание 1" d="M232,48H24A24.006,24.006,0,0,1,14.658,1.886,23.849,23.849,0,0,1,24,0H232a24.006,24.006,0,0,1,9.342,46.114A23.848,23.848,0,0,1,232,48ZM24.246.923a23.083,23.083,0,0,0-8.983,44.339,22.933,22.933,0,0,0,8.983,1.814H231.754a23.082,23.082,0,0,0,8.983-44.34A22.934,22.934,0,0,0,231.754.923Z" transform="translate(694 11389.373)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="116" height="106.669" viewBox="0 0 116 106.669">
-  <defs>
-    <filter id="telegram" x="0" y="0" width="116" height="106.669" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="10" result="blur"/>
-      <feFlood flood-color="#039be5" flood-opacity="0.502"/>
-      <feComposite operator="in" in2="blur"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-  </defs>
-  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#telegram)">
-    <path id="telegram-2" data-name="telegram" d="M21.974,33.757l-.926,13.03a3.239,3.239,0,0,0,2.588-1.253l6.214-5.938,12.876,9.429c2.361,1.316,4.025.623,4.662-2.172l8.452-39.6,0,0c.749-3.491-1.262-4.856-3.563-4L2.6,22.267c-3.39,1.316-3.339,3.206-.576,4.062l12.7,3.95L19.643,27.2,44.225,11.821c1.388-.919,2.651-.411,1.612.509Z" transform="translate(30 24)" fill="#039be5"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="46.669"><path id="telegram" d="M21.974 33.757l-.926 13.03a3.239 3.239 0 002.588-1.253l6.214-5.938 12.876 9.429c2.361 1.316 4.025.623 4.662-2.172l8.452-39.6c.749-3.491-1.262-4.856-3.563-4L2.6 22.267c-3.39 1.316-3.339 3.206-.576 4.062l12.7 3.95 29.5-18.459c1.388-.919 2.651-.411 1.612.509z" transform="translate(0 -2.999)" fill="#039be5"/></svg>
